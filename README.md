@@ -8,6 +8,15 @@ This lab is focused on understanding the functions of a Security Operations Cent
 
 ---
 
+# 🎯 Lab Objectives
+
+The objective of this lab was to:
+
+- Identify the role of a Security Operations Centre (SOC)
+- Understand the roles of a SOC analyst
+- Understand Blue team security operations
+- Identify security incident detection and response processes
+
 # 🏢 What is a Security Operations Centre (SOC)?
 
 A Security Operations Centre (SOC) is a team that monitors, analyzes, and takes action to resolve any potential security problems in an organization.
@@ -91,7 +100,7 @@ As a result of the current lab, I have gained knowledge on:
 # 📸 Evidence
 
 ## Task Completion
-![Blue Team 01](01-team_task.png)
-![Blue Team 02](02-team_task.png)
-![Blue Team 03](03-team_task.png)
-![Blue Team 04](04-team_task.png)
+![SOC role and responsibilities](01-team_task.png)
+![Blue Team concepts](02-team_task.png)
+![Security operations workflow](03-team_task.png)
+![Hand-on lab](04-team_task.png)
