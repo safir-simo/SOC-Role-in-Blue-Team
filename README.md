@@ -88,7 +88,7 @@ General workflow of SOC includes the following steps:
 
 ---
 
-# 🎯 Key Takeaways
+# ✅ Key Takeaways
 
 As a result of the current lab, I have gained knowledge on:
 
