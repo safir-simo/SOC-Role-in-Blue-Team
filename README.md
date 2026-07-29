@@ -17,6 +17,8 @@ The objective of this lab was to:
 - Understand Blue team security operations
 - Identify security incident detection and response processes
 
+---
+
 # 🏢 What is a Security Operations Centre (SOC)?
 
 A Security Operations Centre (SOC) is a team that monitors, analyzes, and takes action to resolve any potential security problems in an organization.
