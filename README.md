@@ -90,3 +90,8 @@ As a result of the current lab, I have gained knowledge on:
 
 # 📸 Evidence
 
+## Task Completion
+![Blue Team 01](01-team_task.png)
+![Blue Team 02](02-team_task.png)
+![Blue Team 03](03-team_task.png)
+![Blue Team 04](04-team_task.png)
